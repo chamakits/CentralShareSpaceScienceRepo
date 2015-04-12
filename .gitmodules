@@ -1,0 +1,6 @@
+[submodule "ShareSpaceScience-frontend"]
+	path = ShareSpaceScience-frontend
+	url = https://github.com/chamakits/ShareSpaceScience-frontend.git
+[submodule "sharespacenasa"]
+	path = sharespacenasa
+	url = https://github.com/uarem/sharespacenasa.git
